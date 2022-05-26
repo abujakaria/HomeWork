@@ -1,7 +1,5 @@
 package hw5Q2Constructor;
 
-import java.awt.image.DataBuffer;
-
 public class ComputerTest {
 	public static void main(String[] args) {
 		

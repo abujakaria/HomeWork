@@ -14,8 +14,8 @@ public class MySelf {
 		System.out.println("Hello Class");
 		System.out.println("My Name is Abu Jakaria");
 		System.out.println("My Address is Newbold Ave, Bronx, NY ");
-       //syso
-		
+       
+
 	}
 
 }

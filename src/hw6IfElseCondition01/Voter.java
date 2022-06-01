@@ -8,10 +8,10 @@ public class Voter {
 
 		if (voter1 < voter2) {
 			System.out.println(voter1 + " I'm a voter " + voter2);
-		} else if(voter1 > voter2)  {
+		} else if (voter1 > voter2) {
 			System.out.println(voter1 + " I'm a voter " + voter2);
 		} else {
-			
+
 		}
 
 	}

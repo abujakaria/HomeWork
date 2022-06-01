@@ -19,10 +19,10 @@ public class Temperature {
 			System.out.println(tamp1 + "Getting Warmer" + tamp2);
 		} else if (tamp1 != tamp2) {
 			System.out.println(tamp1 + "Hot" + tamp2);
-		}else {
-			
+		} else {
+
 		}
-         scanner.close();
-         
+		scanner.close();
+
 	}
 }
